@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto+Condensed:wght@700&display=swap');
+#panelbienvenidos{
+  width: 80%;
+  height: 700px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  margin-top: 50px;
+}
+
+#bienvenidos_left{
+  width: 65%;
+  margin-right: 50px;
+}
+
+#bienvenidos_left p{
+  color:  white ;
+  font-family: 'Poppins', sans-serif;
+  text-align: justify;
+  font-size: 18px;
+}
+
+#bienvenidos_left h2{
+  display: flex;
+  align-items: center;
+  color: white;
+  font-size: 30px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+#testimonios_right{
+  width: 35%;
+}
+
+#testimonios_right iframe{
+  border:0;
+  margin-top: 50px;
+  border-radius: 10px;
+  transition-property: box-shadow;
+  transition-duration: 0.5s;
+  position: relative;
+}
+
+#testimonios_right iframe:hover{
+  box-shadow: 0px 0px 15px gray;
+}
