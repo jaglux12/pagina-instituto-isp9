@@ -11,7 +11,7 @@ que aporta al medio recursos humanos para los cuatro niveles de la Educación: I
 
 ## Redes sociales (Centro de Estudiantes)
  - [Instagram](https://www.instagram.com/impulso_estudiantil22/)
- - [Correo electrónico](<isp9.movimiento.estudiantil@gmail.com>)
+ - <isp9.movimiento.estudiantil@gmail.com>
 
 ## Desarrollo
 Actualmente existe un personal reducido que está colaborando en el desarrollo de la página web
