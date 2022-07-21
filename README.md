@@ -2,7 +2,7 @@
 
 Este Instituto Superior de Formación Docente forma
 parte del sistema de educación pública de gestión estatal
-que aporta al medio recursos humanos para los cuatro niveles de la Educación: Inicial, Primario, Especial y Técnico.
+que aporta al medio recursos humanos para los cuatro niveles de la Educación: Inicial, Primario, Especial y Técnico. El mismo está ubicado en Tostado, Santa Fe, Argentina. 
 
 ## Redes sociales (Instituto)
 
