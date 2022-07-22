@@ -2,7 +2,7 @@
 <nav class="navbar navbar-expand-sm navbar-light mt-4 px-5 justify-content-between" id="panelNav">
 
   <a href="index.php" class="navbar-brand" id="tituloBargo">
-    <img src="img/logo.png" width="45%" height="45%">
+    Instituto
   </a>
 
   <!-- Botón que se muestra cuando la barra de navegación de colapsa -->
@@ -35,7 +35,7 @@
     <a href="#" id="tituloOpcionesPrincipales" class="mx-2">Noticias</a>
     <a href="#" id="tituloOpcionesPrincipales" class="mx-2">Ayuda</a>
     <a href="#" id="tituloOpcionesPrincipales" class="mx-2">Noticias</a>
-    <button type="button" class="btn btn-outline-dark">Campus Virtual</button>
+    <button type="button" class="btn btn-outline-dark" href="https://isp9-sfe.infd.edu.ar/aula/acceso.cgi">Campus Virtual</button>
   </div>
 
 </nav>
