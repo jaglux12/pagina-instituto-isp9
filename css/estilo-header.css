@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
-panelNav {
+#tituloMenuPrincipal{
+  font-family: 'Playfair Display', serif;
+}
+
+#panelNav {
   background-image: linear-gradient(to left,  #5acfad ,  #5ac8cf  );
 }
 
@@ -18,25 +23,4 @@ panelNav {
 
 #tituloOpcionesPrincipales:hover{
   background-size: 100% 2px;
-}
-
-#accesoCampus{
-  font-weight: bold;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 13px;
-  padding: 10px 15px 10px 15px;
-  background: transparent;
-  color: black;
-  border-color: black;
-  background: transparent;
-  border: 3px solid black;
-  border-radius: 5px;
-  transition-property: background-color color;
-  transition-duration: 0.5s;
-}
-
-#accesoCampus:hover{
-  background-color: black;
-  color: white;
-  cursor:pointer;
 }
