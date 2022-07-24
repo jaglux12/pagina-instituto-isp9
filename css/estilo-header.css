@@ -26,3 +26,7 @@
 #itemsNavBar:hover{
   background-size: 100% 2px;
 }
+
+#itemsBarraDesplegable{
+  font-family: 'Montserrat', sans-serif;
+}

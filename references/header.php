@@ -23,15 +23,16 @@
             <div class="col-6 d-flex justify-content-center align-items-center rounded">
               <button type="button" name="button" class="btn btn-outline-info btn-lg d-flex justify-content-center align-items-center
                                                          flex-column w-100 text-light">
-                  <img src="img/iconos/icono_tecnica.png" alt="">
-                  Carreras
+                  <img src="img/iconos/libro.png" class="w-50 h-50">
+                  <label id="itemsBarraDesplegable" class="mt-1">Carreras</label>
               </button>
             </div>
 
-            <div class="col-5 bg-dark">
-              <button type="button" name="button" class="btn btn-warning w-100">
-                  <img src="" alt="">
-                  Noticias
+            <div class="col-5 d-flex justify-content-center align-items-center rounded">
+              <button type="button" name="button" class="btn btn-outline-info btn-lg d-flex justify-content-center align-items-center
+                                                         flex-column w-100 text-light">
+                  <img src="img/iconos/libro.png" class="w-50 h-50">
+                  <label id="itemsBarraDesplegable" class="mt-1">Carreras</label>
               </button>
             </div>
 
