@@ -16,6 +16,8 @@
 
     <!-- CSS locales -->
     <link href="css/estilo-header.css" rel="stylesheet">
+    <link href="css/estilo-instituto-presentacion.css" rel="stylesheet">
+    <link href="css/estilo-todasLasCarreras.css" rel="stylesheet">
 
     <title> Instituto de Educación Superior Nº9 </title>
 
@@ -24,11 +26,21 @@
   <body>
 
 
-    <header>
+    <header  id="panelNav">
       <?php
         require 'references/header.php'
        ?>
+       <?php
+        require 'references/section_header.php'
+       ?>
     </header>
+
+    <!-- Panel de carreras -->
+    <section id="panelBaseTCarreras">
+      <?php
+        require 'references/articulo_carreras.php'
+       ?>
+    </section>
 
     <!-- JQuery -->
     <script

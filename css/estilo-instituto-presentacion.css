@@ -21,9 +21,7 @@
   height: 100%;
 }
 
-#panelBaseNombre h1{
-  font-size: 45px;
-  margin-left: 40px;
+#tituloPresentacion{
   font-family: 'Joan', serif;
 }
 
