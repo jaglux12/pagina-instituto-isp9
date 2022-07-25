@@ -8,9 +8,9 @@
   background-color: #423f3d;
   transition-property: box-shadow;
   transition-duration: 0.5s;
-  
   background-position: center;
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #panelCarrera:hover{
@@ -66,14 +66,7 @@
 }
 
 #panelRedesSociales{
-  width: 50%;
-  height: 90%;
-  margin: 7px;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  border: 0px solid black;
+  background-image: linear-gradient(to left,  #5acfad ,  #5ac8cf  );
 }
 
 #tituloItem{

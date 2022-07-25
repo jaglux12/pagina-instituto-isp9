@@ -18,6 +18,7 @@
     <link href="css/estilo-header.css" rel="stylesheet">
     <link href="css/estilo-instituto-presentacion.css" rel="stylesheet">
     <link href="css/estilo-todasLasCarreras.css" rel="stylesheet">
+    <link href="css/estilo-sobreElInstituto.css" rel="stylesheet">
 
     <title> Instituto de Educación Superior Nº9 </title>
 
@@ -39,6 +40,12 @@
     <section id="panelBaseTCarreras">
       <?php
         require 'references/articulo_carreras.php'
+       ?>
+    </section>
+
+    <section id="panelNav">
+      <?php
+        require 'references/sobre_instituto.php'
        ?>
     </section>
 

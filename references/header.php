@@ -67,12 +67,6 @@
       </div>
     </div>
 
-    <div class="row">
-        <div class="">
-
-        </div>
-    </div>
-
   </div>
 
   <div class="collapse navbar-collapse justify-content-end">
