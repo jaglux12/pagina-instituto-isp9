@@ -6,6 +6,11 @@
 
 #panelCarrera{
   background-color: #423f3d;
+  transition-property: box-shadow;
+  transition-duration: 0.5s;
+  
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 #panelCarrera:hover{
@@ -35,12 +40,9 @@
   flex-direction: column;
 }
 
-#panelDescripcionCarrera h1{
+#tituloCarrera{
   color: white;
   font-family: 'Source Sans Pro', sans-serif;
-  text-align: center;
-  margin-top: 50px;
-  width: 80%;
 }
 
 #botonVerCarreras{
