@@ -18,7 +18,7 @@ Actualmente se encuentra alojada con el servicio que nos brinda [DonWeb](https:/
 
 ## Desarrollo
 Actualmente existe un personal reducido que está colaborando en el desarrollo de la página web
-del Instituto de Educación Superior Nº9. El personal es el siguiente (perfiles de github):
+del Instituto de Educación Superior Nº9. Los alumnos son (perfiles de github):
 - [Mauricio Paris](https://github.com/MauriParis)
 - [Juan Bautista](https://github.com/Bautyzan)
 - [Carlos Pagura](https://github.com/calipagura)
