@@ -4,6 +4,9 @@ Este Instituto Superior de Formación Docente forma
 parte del sistema de educación pública de gestión estatal
 que aporta al medio recursos humanos para los cuatro niveles de la Educación: Inicial, Primario, Especial y Técnico. El mismo está ubicado   en Tostado, Santa Fe, Argentina.
 
+## ¿Dónde se aloja la página web?
+Actualmente se encuentra alojada con el servicio que nos brinda [DonWeb](https://donweb.com/es-ar/).
+
 ## Redes sociales (Instituto)
 
  - [Facebook](https://www.facebook.com/Instituto-Superior-de-Profesorado-N9-410148382374391/)
