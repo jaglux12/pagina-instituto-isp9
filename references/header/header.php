@@ -1,15 +1,15 @@
 
 <nav class="navbar navbar-expand-md navbar-light pt-5 px-3 justify-content-between">
 
-  <a href="index.php" class="navbar-brand fs-1 d-xs-block d-md-none ms-4" id="tituloMenuDesplegable"> IES <strong><label >Nº9</label></strong>  </a>
+  <a href="index.php" class="navbar-brand fs-1 d-xs-block d-md-none ms-4" id="tituloMenuDesplegable"> I.E.S Nº9  </a>
 
   <!-- <img src="img/logo_ies.png" width="30px" height="45px"class="d-none d-md-block ms-5"> -->
-  <a href="index.php" class="navbar-brand text-light fs-4 d-none d-md-block ms-5" id="tituloMenuDesplegable"> Instituto de Educación <br> Superior <strong><label id="tituloMenuDesplegable" >Nº9</label></strong>  </a>
+  <a href="index.php" class="navbar-brand text-light fs-4 d-none d-md-block  ms-5" id="tituloMenuDesplegable"> Instituto de Educación <br> Superior <strong><label id="tituloMenuDesplegable" >Nº9</label></strong>  </a>
 
   <!-- Botón que se muestra cuando la barra de navegación de colapsa -->
-  <button type="button" class="navbar-toggler rounded bg-dark border-transparent" data-bs-toggle="offcanvas"
+  <button type="button" class="navbar-toggler rounded  border-transparent me-4 border-0" data-bs-toggle="offcanvas"
   href="#panelDesplegable">
-    <img src="img/bootstrap-icons-1.9.1/list.svg" width="50" height="50">
+    <img src="img/bootstrap-icons-1.9.1/list.svg" style="filter: invert(1);" width="50" height="50">
   </button>
 
   <div class="offcanvas offcanvas-top d-sm-block d-md-none h-75" tabindex="-1" id="panelDesplegable">
@@ -20,51 +20,29 @@
     </div>
 
     <div class="offcanvas-body ps-3 d-flex flex-column h-100 bg-dark">
+
       <div class="container-fluid">
-        <div class="row justify-content-between">
 
-            <div class="col-6 d-flex justify-content-center align-items-center rounded">
-              <button type="button" name="button" class="btn btn-outline-info btn-lg d-flex justify-content-center align-items-center
-                                                         flex-column w-100 text-light">
-                  <img src="img/bootstrap-icons-1.9.1/journal-bookmark-fill.svg" style="filter: invert(1);" class="w-25 h-25">
-                  <label id="itemsBarraDesplegable" class="mt-1 fs-5">Carreras</label>
-              </button>
-            </div>
+        <div class="accordion" id="accordionExample">
 
-            <div class="col-6 d-flex justify-content-center align-items-center rounded">
-              <button type="button" name="button" class="btn btn-outline-warning btn-lg d-flex justify-content-center align-items-center
-                                                         flex-column w-100 text-light">
-                  <img src="img/bootstrap-icons-1.9.1/newspaper.svg" style="filter: invert(1);" class="w-25 h-25">
-                  <label id="itemsBarraDesplegable" class="mt-1 fs-5">Noticias</label>
-              </button>
-            </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+                <button class="accordion-button collapsed bg-warning" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    Carreras
+                </button>
+            </h2>
 
-        </div>
-
-        <div class="row justify-content-between mt-3">
-
-            <div class="col-12 d-flex justify-content-center align-items-center rounded">
-              <button type="button" name="button" class="btn btn-outline-secondary btn-lg d-flex justify-content-center align-items-center
-                                                         flex-column w-100 text-light">
-                  <img src="img/bootstrap-icons-1.9.1/question-square-fill.svg" style="filter: invert(1);" class="w-25 h-25">
-                  <label id="itemsBarraDesplegable" class="mt-1 fs-5">Ayuda</label>
-              </button>
-            </div>
-
-        </div>
-
-        <div class="row justify-content-between mt-3">
-
-            <div class="col-12 d-flex justify-content-center align-items-center rounded">
-              <button type="button" name="button" class="btn btn-primary btn-lg d-flex justify-content-center align-items-center
-                                                         flex-column w-100 text-light">
-                  <label id="itemsBarraDesplegable" class="mt-1 fs-5">Campus Virtual</label>
-              </button>
-            </div>
-
-        </div>
+          <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+              <div class="accordion-body">
+                <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+              </div>
+         </div>
+       </div>
 
       </div>
+
+      </div>
+
     </div>
 
   </div>

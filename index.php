@@ -42,7 +42,7 @@
         require 'references/articulo_carreras.php'
        ?>
     </section>
-    
+
     <section id="panelNav">
       <?php
         require 'references/sobre_instituto.php'
