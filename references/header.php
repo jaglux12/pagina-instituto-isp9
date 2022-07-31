@@ -4,7 +4,7 @@
   <a href="index.php" class="navbar-brand fs-1 d-xs-block d-md-none ms-4" id="tituloMenuDesplegable"> IES <strong><label >Nº9</label></strong>  </a>
 
   <!-- <img src="img/logo_ies.png" width="30px" height="45px"class="d-none d-md-block ms-5"> -->
-  <a href="index.php" class="navbar-brand text-light fs-5 d-none d-md-block ms-5" id="tituloPresentacion"> Instituto de Educación <br> Superior <strong><label id="tituloMenuDesplegable" >Nº9</label></strong>  </a>
+  <a href="index.php" class="navbar-brand text-light fs-4 d-none d-md-block ms-5" id="tituloMenuDesplegable"> Instituto de Educación <br> Superior <strong><label id="tituloMenuDesplegable" >Nº9</label></strong>  </a>
 
   <!-- Botón que se muestra cuando la barra de navegación de colapsa -->
   <button type="button" class="navbar-toggler rounded bg-dark border-transparent" data-bs-toggle="offcanvas"
