@@ -29,10 +29,10 @@
 
     <header  id="panelNav">
       <?php
-        require 'references/header.php'
+        require 'references/header/header.php'
        ?>
        <?php
-        require 'references/section_header.php'
+        require 'references/header/sec_mensaje_header.php'
        ?>
     </header>
 
