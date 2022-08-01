@@ -23,20 +23,100 @@
 
       <div class="container-fluid">
 
+        <!-- Menú numero uno -->
+
         <div class="accordion" id="accordionExample">
 
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-                <button class="accordion-button collapsed bg-warning" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          <div class="accordion-item border-0" id="itemAccordation">
+            <h2 class="accordion-header bg-transparent">
+                <button class="accordion-button collapsed bg-transparent"  id="itemAccordation" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                    <img src="img/bootstrap-icons-1.9.1/book-fill.svg" class="me-2" width="25px" height="25px"alt="">
                     Carreras
                 </button>
             </h2>
 
-          <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+          <div id="collapseOne" class="accordion-collapse collapse bg-transparent" id="itemAccordation" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
               <div class="accordion-body">
-                <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                <button type="button" name="button" class="btn btn-secondary w-100 py-2 rounded text-start">
+                    Tecnicaturas
+                </button>
+
+                <button type="button" name="button" class="btn btn-secondary w-100 py-2 rounded text-start mt-1">
+                    Profesorados
+                </button>
               </div>
+
          </div>
+
+         <!-- Menú numero dos -->
+
+         <div class="accordion" id="accordionDos">
+
+           <div class="accordion-item border-0" id="itemAccordation">
+             <h2 class="accordion-header bg-transparent">
+                 <button class="accordion-button collapsed bg-transparent"  id="itemAccordation" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                     <img src="img/bootstrap-icons-1.9.1/person-square.svg" class="me-2" width="25px" height="25px"alt="">
+                     Alumnos
+                 </button>
+             </h2>
+
+           <div id="collapseTwo" class="accordion-collapse collapse bg-transparent" id="itemAccordation" aria-labelledby="headingThree" data-bs-parent="#accordionDos">
+               <div class="accordion-body">
+
+                 <button type="button" name="button" class="btn btn-secondary w-100 py-2 rounded text-start">
+                     Solicitudes
+                 </button>
+
+                 <button type="button" name="button" class="btn btn-secondary w-100 py-2 rounded text-start mt-1">
+                     Inscripción
+                 </button>
+
+                 <button type="button" name="button" class="btn btn-secondary w-100 py-2 rounded text-start mt-1">
+                     Avances de carrera
+                 </button>
+                 <button type="button" name="button" class="btn btn-secondary w-100 py-2 rounded text-start mt-1">
+                     Exámenes a distancia
+                 </button>
+
+               </div>
+
+          </div>
+
+          <!-- Menú numero tres -->
+
+          <div class="accordion" id="accordionTres">
+
+            <div class="accordion-item border-0" id="itemAccordation">
+              <h2 class="accordion-header bg-transparent">
+                  <button class="accordion-button collapsed bg-transparent"  id="itemAccordation" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                      <img src="img/bootstrap-icons-1.9.1/chat-dots-fill.svg" class="me-2" width="25px" height="25px"alt="">
+                      Contacto
+                  </button>
+              </h2>
+
+            <div id="collapseThree" class="accordion-collapse collapse bg-transparent" id="itemAccordation" aria-labelledby="headingThree" data-bs-parent="#accordionTres">
+                <div class="accordion-body">
+
+                  <button type="button" name="button" class="btn btn-primary w-100 py-2 rounded text-start">
+                      <img src="img/bootstrap-icons-1.9.1/instagram.svg" alt="">
+                      Instagram
+                  </button>
+
+                  <button type="button" name="button" class="btn btn-secondary w-100 py-2 rounded text-start mt-1">
+                      Inscripción
+                  </button>
+
+                  <button type="button" name="button" class="btn btn-secondary w-100 py-2 rounded text-start mt-1">
+                      Avances de carrera
+                  </button>
+                  <button type="button" name="button" class="btn btn-secondary w-100 py-2 rounded text-start mt-1">
+                      Exámenes a distancia
+                  </button>
+
+                </div>
+
+           </div>
+
        </div>
 
       </div>
