@@ -37,11 +37,11 @@
 
           <div id="collapseOne" class="accordion-collapse collapse bg-transparent" id="itemAccordation" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
               <div class="accordion-body">
-                <button type="button" name="button" class="btn btn-secondary w-100 py-2 rounded text-start">
+                <button type="button" name="button" class="btn btn-outline-light text-dark w-100 py-2 rounded text-start">
                     Tecnicaturas
                 </button>
 
-                <button type="button" name="button" class="btn btn-secondary w-100 py-2 rounded text-start mt-1">
+                <button type="button" name="button" class="btn btn-outline-light text-dark w-100 py-2 rounded text-start mt-1">
                     Profesorados
                 </button>
               </div>
@@ -63,18 +63,18 @@
            <div id="collapseTwo" class="accordion-collapse collapse bg-transparent" id="itemAccordation" aria-labelledby="headingThree" data-bs-parent="#accordionDos">
                <div class="accordion-body">
 
-                 <button type="button" name="button" class="btn btn-secondary w-100 py-2 rounded text-start">
+                 <button type="button" name="button" class="btn btn-outline-light text-dark w-100 py-2 rounded text-start">
                      Solicitudes
                  </button>
 
-                 <button type="button" name="button" class="btn btn-secondary w-100 py-2 rounded text-start mt-1">
+                 <button type="button" name="button" class="btn btn-outline-light text-dark w-100 py-2 rounded text-start mt-1">
                      Inscripción
                  </button>
 
-                 <button type="button" name="button" class="btn btn-secondary w-100 py-2 rounded text-start mt-1">
+                 <button type="button" name="button" class="btn btn-outline-light text-dark w-100 py-2 rounded text-start mt-1">
                      Avances de carrera
                  </button>
-                 <button type="button" name="button" class="btn btn-secondary w-100 py-2 rounded text-start mt-1">
+                 <button type="button" name="button" class="btn btn-outline-light text-dark w-100 py-2 rounded text-start mt-1">
                      Exámenes a distancia
                  </button>
 
@@ -97,19 +97,20 @@
             <div id="collapseThree" class="accordion-collapse collapse bg-transparent" id="itemAccordation" aria-labelledby="headingThree" data-bs-parent="#accordionTres">
                 <div class="accordion-body">
 
-                  <button type="button" name="button" class="btn btn-primary w-100 py-2 rounded text-start">
-                      <img src="img/bootstrap-icons-1.9.1/instagram.svg" alt="">
+                  <button type="button" name="button" class="btn btn-outline-light text-dark w-100 py-2 rounded text-start">
+                      <img src="img/bootstrap-icons-1.9.1/instagram.svg" class="me-2" alt="">
                       Instagram
                   </button>
 
-                  <button type="button" name="button" class="btn btn-secondary w-100 py-2 rounded text-start mt-1">
-                      Inscripción
+                  <button type="button" name="button" class="btn btn-outline-light text-dark w-100 py-2 rounded text-start mt-1">
+                    <img src="img/bootstrap-icons-1.9.1/facebook.svg" class="me-2" alt="">
+                      Facebook
                   </button>
 
-                  <button type="button" name="button" class="btn btn-secondary w-100 py-2 rounded text-start mt-1">
+                  <button type="button" name="button" class="btn btn-outline-light text-dark w-100 py-2 rounded text-start mt-1">
                       Avances de carrera
                   </button>
-                  <button type="button" name="button" class="btn btn-secondary w-100 py-2 rounded text-start mt-1">
+                  <button type="button" name="button" class="btn btn-outline-light text-dark w-100 py-2 rounded text-start mt-1">
                       Exámenes a distancia
                   </button>
 
