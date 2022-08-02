@@ -15,7 +15,7 @@
         <div class="d-flex justify-content-center">
           <img src="img/logo_index_i.png" width="75%" height="75%">
         </div>
-        
+
       </div>
 
     </div>
