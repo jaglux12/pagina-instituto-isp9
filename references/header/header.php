@@ -97,21 +97,22 @@
             <div id="collapseThree" class="accordion-collapse collapse bg-transparent" id="itemAccordation" aria-labelledby="headingThree" data-bs-parent="#accordionTres">
                 <div class="accordion-body">
 
-                  <button type="button" name="button" class="btn btn-outline-light text-dark w-100 py-2 rounded text-start">
+                  <button type="button" name="button" class="btn btn-outline-light text-dark w-100 py-2 rounded text-start"
+                      onclick="location.href='https://www.instagram.com/instituto_superior9/'">
                       <img src="img/bootstrap-icons-1.9.1/instagram.svg" class="me-2" alt="">
                       Instagram
                   </button>
 
-                  <button type="button" name="button" class="btn btn-outline-light text-dark w-100 py-2 rounded text-start mt-1">
+                  <button type="button" name="button" class="btn btn-outline-light text-dark w-100 py-2 rounded text-start mt-1"
+                     onclick="location.href='https://www.facebook.com/Instituto-Superior-de-Profesorado-N9-410148382374391/'">
                     <img src="img/bootstrap-icons-1.9.1/facebook.svg" class="me-2" alt="">
                       Facebook
                   </button>
 
-                  <button type="button" name="button" class="btn btn-outline-light text-dark w-100 py-2 rounded text-start mt-1">
-                      Avances de carrera
-                  </button>
-                  <button type="button" name="button" class="btn btn-outline-light text-dark w-100 py-2 rounded text-start mt-1">
-                      Exámenes a distancia
+                  <button type="button" name="button" class="btn btn-outline-light text-dark w-100 py-2 rounded text-start mt-1"
+                    onclick="location.href='mailto:institutojms009@gmail.com?Subject=Consulta'">
+                      <img src="img/bootstrap-icons-1.9.1/envelope-fill.svg" class="me-2" alt="">
+                      Email
                   </button>
 
                 </div>
