@@ -34,6 +34,7 @@
                     Carreras
                 </button>
             </h2>
+          </div>
 
           <div id="collapseOne" class="accordion-collapse collapse bg-transparent" id="itemAccordation" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
               <div class="accordion-body">
@@ -59,6 +60,7 @@
                      Alumnos
                  </button>
              </h2>
+           </div>
 
            <div id="collapseTwo" class="accordion-collapse collapse bg-transparent" id="itemAccordation" aria-labelledby="headingThree" data-bs-parent="#accordionDos">
                <div class="accordion-body">
@@ -87,14 +89,15 @@
           <div class="accordion" id="accordionTres">
 
             <div class="accordion-item border-0" id="itemAccordation">
-              <h2 class="accordion-header bg-transparent">
-                  <button class="accordion-button collapsed bg-transparent"  id="itemAccordation" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+              <h2 class="accordion-header">
+                  <button class="accordion-button collapsed"  id="itemAccordation" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                       <img src="img/bootstrap-icons-1.9.1/chat-dots-fill.svg" class="me-2" width="25px" height="25px"alt="">
                       Contacto
                   </button>
               </h2>
+            </div>
 
-            <div id="collapseThree" class="accordion-collapse collapse bg-transparent" id="itemAccordation" aria-labelledby="headingThree" data-bs-parent="#accordionTres">
+            <div id="collapseThree" class="accordion-collapse collapse" id="itemAccordation" aria-labelledby="headingThree" data-bs-parent="#accordionTres">
                 <div class="accordion-body">
 
                   <button type="button" name="button" class="btn btn-outline-light text-dark w-100 py-2 rounded text-start"
@@ -116,7 +119,6 @@
                   </button>
 
                 </div>
-
            </div>
 
        </div>
@@ -124,6 +126,10 @@
       </div>
 
       </div>
+
+      <button type="button" name="button" class="w-100 py-3">
+        Campus Virtual
+      </button>
 
     </div>
 
