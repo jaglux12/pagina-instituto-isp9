@@ -3,7 +3,7 @@
   <div class="row">
     <div class="col-* d-flex">
       <h2 id="tituloSobreInstituto" class="me-2">Sobre el instituto</h2>
-      <img src="img/bootstrap-icons-1.9.1/info-circle-fill.svg" width="25" height="25">
+      <img src="img/iconos/info-circle-fill.svg" width="25" height="25">
     </div>
   </div>
 
