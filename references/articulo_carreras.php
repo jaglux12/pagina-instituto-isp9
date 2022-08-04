@@ -48,13 +48,13 @@
           <h1 id="tituloCarrera" class="text-center mb-4"> <strong>REDES SOCIALES</strong> </h1>
           <div class="container d-flex justify-content-center">
               <a href="#">
-                <img src="img/bootstrap-icons-1.9.1/facebook.svg" width="50" height="50" style="filter: invert(1);">
+                <img src="img/iconos/facebook.svg" width="50" height="50" style="filter: invert(1);">
               </a>
               <a href="#">
-                <img src="img/bootstrap-icons-1.9.1/instagram.svg" class="mx-5"width="50" height="50" style="filter: invert(1);">
+                <img src="img/iconos/instagram.svg" class="mx-5"width="50" height="50" style="filter: invert(1);">
               </a>
               <a href="#">
-                <img src="img/bootstrap-icons-1.9.1/envelope-fill.svg" width="50" height="50" style="filter: invert(1);">
+                <img src="img/iconos/envelope-fill.svg" width="50" height="50" style="filter: invert(1);">
               </a>
           </div>
     </div>

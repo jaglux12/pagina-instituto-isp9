@@ -9,7 +9,7 @@
   <!-- Botón que se muestra cuando la barra de navegación de colapsa -->
   <button type="button" class="navbar-toggler rounded  border-transparent me-4 border-0" data-bs-toggle="offcanvas"
   href="#panelDesplegable">
-    <img src="img/bootstrap-icons-1.9.1/list.svg" style="filter: invert(1);" width="50" height="50">
+    <img src="img/iconos/list.svg" style="filter: invert(1);" width="50" height="50">
   </button>
 
   <div class="offcanvas offcanvas-top d-sm-block d-md-none h-75" tabindex="-1" id="panelDesplegable">
@@ -30,7 +30,7 @@
           <div class="accordion-item border-0" id="itemAccordation">
             <h2 class="accordion-header bg-light rounded-top">
                 <button class="accordion-button collapsed"  id="itemAccordation" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                    <img src="img/bootstrap-icons-1.9.1/book-fill.svg" class="me-2" width="25px" height="25px"alt="">
+                    <img src="img/iconos/book-fill.svg" class="me-2" width="25px" height="25px"alt="">
                     Carreras
                 </button>
             </h2>
@@ -59,7 +59,7 @@
            <div class="accordion-item rounded-0" id="itemAccordation">
              <h2 class="accordion-header bg-light rounded-0">
                  <button class="accordion-button collapsed rounded-0"  id="itemAccordation" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                     <img src="img/bootstrap-icons-1.9.1/person-square.svg" class="me-2" width="25px" height="25px"alt="">
+                     <img src="img/iconos/person-square.svg" class="me-2" width="25px" height="25px"alt="">
                      Alumnos
                  </button>
              </h2>
@@ -97,7 +97,7 @@
          <div class="accordion-item rounded-0" id="itemAccordation">
            <h2 class="accordion-header bg-light">
                <button class="accordion-button collapsed"  id="itemAccordation" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                   <img src="img/bootstrap-icons-1.9.1/newspaper.svg" class="me-2" width="25px" height="25px"alt="">
+                   <img src="img/iconos/newspaper.svg" class="me-2" width="25px" height="25px"alt="">
                    Noticias
                </button>
            </h2>
@@ -124,7 +124,7 @@
       <div class="accordion-item rounded-0" id="itemAccordation">
         <h2 class="accordion-header bg-light">
             <button class="accordion-button collapsed"  id="itemAccordation" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                <img src="img/bootstrap-icons-1.9.1/chat-dots-fill.svg" class="me-2" width="25px" height="25px"alt="">
+                <img src="img/iconos/chat-dots-fill.svg" class="me-2" width="25px" height="25px"alt="">
                 Contacto
             </button>
         </h2>
@@ -136,19 +136,19 @@
 
             <button type="button" name="button" class="btn btn-light text-dark w-100 py-2 rounded text-start"
                 onclick="location.href='https://www.instagram.com/instituto_superior9/'">
-                <img src="img/bootstrap-icons-1.9.1/instagram.svg" class="me-2" alt="">
+                <img src="img/iconos/instagram.svg" class="me-2" alt="">
                 Instagram
             </button>
 
             <button type="button" name="button" class="btn btn-light text-dark w-100 py-2 rounded text-start mt-1"
                onclick="location.href='https://www.facebook.com/Instituto-Superior-de-Profesorado-N9-410148382374391/'">
-              <img src="img/bootstrap-icons-1.9.1/facebook.svg" class="me-2" alt="">
+              <img src="img/iconos/facebook.svg" class="me-2" alt="">
                 Facebook
             </button>
 
             <button type="button" name="button" class="btn btn-light text-dark w-100 py-2 rounded text-start mt-1"
               onclick="location.href='mailto:institutojms009@gmail.com?Subject=Consulta'">
-                <img src="img/bootstrap-icons-1.9.1/envelope-fill.svg" class="me-2" alt="">
+                <img src="img/iconos/envelope-fill.svg" class="me-2" alt="">
                 Email
             </button>
 
