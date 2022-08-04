@@ -20,6 +20,9 @@
     <link href="css/estilo-todasLasCarreras.css" rel="stylesheet">
     <link href="css/estilo-sobreElInstituto.css" rel="stylesheet">
 
+    <!-- Icono de la página web -->
+    <link rel="icon" href="img/iconos/index.png">
+
     <title> Instituto de Educación Superior Nº9 </title>
 
   </head>
