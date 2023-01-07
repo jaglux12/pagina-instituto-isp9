@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+.panel_Header{
+    background-image: linear-gradient(to left,  #5acfad ,  #5ac8cf  );
+}
+
+#mainNav{
+    background-image: linear-gradient(to left, rgba( 90, 207, 173 ,0.8) , rgba( 90, 200, 207 ,0.8) );
+}
+
+.nom_instituto{
+    font-family: 'Pacifico', cursive;
+}
+
+.frase_titulo{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.bMenu{
+    background-color: rgba(105, 105, 105, 0.089);
+}
+
+.bCampus{
+    background-image: linear-gradient(to left,  #5acfad ,  #5ac8cf  );
+}
+
+.bMenu_item{
+    background-color: rgba(105, 105, 105, 0.089);
+}
