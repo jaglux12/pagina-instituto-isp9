@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+.titulos_articulos{
+    color: #5acfad;
+}
+
+.item_propuesta{
+    font-size: 15px;
+    border-bottom: 18px solid;
+    border-image: linear-gradient(to left,  #5acfad ,  #5ac8cf  ) 1;
+    background-color: rgba(105, 105, 105, 0.089);
+}
+
+
+.titulo_carrera{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+}
+
+.bsMcarrera{
+    border: 2px solid #5acfad;
+    font-size: 13px;
+}
+
+.paneles_deg{
+    background-image: linear-gradient(to left,  #5acfad ,  #5ac8cf  );
+}
+
+.titulo_info_sec{
+    font-family: 'Raleway', sans-serif;
+    color:rgb(63, 63, 63);
+}
