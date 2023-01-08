@@ -29,3 +29,23 @@
     font-family: 'Raleway', sans-serif;
     color:rgb(63, 63, 63);
 }
+
+.titulos_anuncios{
+    font-size: 30px;
+}
+
+.bVer_todo{
+    border-color: #5ac8cf;
+    color:#5ac8cf;
+}
+
+.bredeSociales{
+    border-color: rgb(63, 63, 63);
+    color:rgb(63, 63, 63);
+}
+
+.bArriba{
+    background-color: white;
+    width: 50px;
+    color: black;
+}
