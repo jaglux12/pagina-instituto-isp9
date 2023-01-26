@@ -29,3 +29,10 @@
 .bMenu_item{
     background-color: rgba(105, 105, 105, 0.089);
 }
+
+.nlink{
+    color: white;
+}
+.nlink:hover{
+    color: black;
+}
